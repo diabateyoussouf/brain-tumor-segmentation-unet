@@ -1,4 +1,4 @@
-# Segmentation-tumeurs-c-r-brales-IRM-avec-U-Net
+# brain-tumor-segmentation-unet
 <img width="1915" height="1080" alt="Capture d’écran du 2026-01-23 18-51-22" src="https://github.com/user-attachments/assets/e10cb5c5-0fdb-4ffa-b658-f14056b00851" />
 
 
